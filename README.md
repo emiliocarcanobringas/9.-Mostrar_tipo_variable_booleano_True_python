@@ -1,1 +1,1 @@
-# 9.-Mostrar_tipo_variable_booleano_True_python
+# Este programa muestra una variable de tipo booleano
